@@ -1,0 +1,5 @@
+.idea/
+env/
+__pycache__/
+car_images/
+bottleneck_features/
